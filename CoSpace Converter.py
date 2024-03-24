@@ -5,7 +5,7 @@ import math
 bl_info = {
     "name": "CoSpace Converter 1",
     "author": "Adriano de Regino",
-    "version": (1, 1, 1),
+    "version": (1, 0, 0),
     "blender": (3, 4, 1),
     "location": "View3D > Properties > Edit",
     "description": "Convert vertex color, face corner data from linear to gamma space and the other way around", 

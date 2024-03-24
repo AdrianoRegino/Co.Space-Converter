@@ -2,8 +2,8 @@ schema_version = "1.0.0"
 
 id = "ColorSpaceConverter"
 version = "1.0.0"
-name = "Co.Space Converter"
-tagline = "This is another extension"
+name = "CoSpace Converter"
+tagline = "VertexColor from linear to gamma and vice-versa"
 maintainer = "Adriano de Regino <adrianoderegino@gmail.com>"
 type = "add-on"
 
@@ -12,16 +12,16 @@ type = "add-on"
 
 # Optional list defined by Blender and server, see:
 # https://docs.blender.org/manual/en/dev/extensions/tags.html
-tags = ["Animation", "Sequencer"]
+tags = ["Game Engine", "Paint", "Object"]
 
 blender_version_min = "4.2.0"
 # Optional: maximum supported Blender version
 # blender_version_max = "5.1.0"
 
 license = [
-  "MIT License",
+  "SPDX:GPL-2.0-or-later",
 ]
 # Optional: required by some licenses.
 copyright = [
   "2002-2024 Adriano de Regino",
-  "1998 Company Name",
+]
