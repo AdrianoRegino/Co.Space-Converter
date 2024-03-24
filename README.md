@@ -1,5 +1,10 @@
 # Co.Space-Converter
-Blender extension that converts an object vertex color from linear color space to gamma and vice-versa.
+
+Simple extension for conversion of vertex color from linear to gamma color space and the other way around. 
+
+Useful when a game development or production project change color space amidst development and all vertex colors need to change too in order to keep the same appearance.
+
+Usage: Select a single object and click on the desired conversion button.
 
 Instalation:
 
