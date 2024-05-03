@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "ColorSpaceConverter"
-version = "1.0.0"
+version = "1.0.2"
 name = "CoSpace Converter"
 tagline = "VertexColor from linear to gamma and vice-versa"
 maintainer = "Adriano de Regino <adrianoderegino@gmail.com>"
