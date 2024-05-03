@@ -2,7 +2,7 @@ from . import CoSpace-Converter
 
 
 bl_info = {
-	"name": "CoSpace-Converter",
+	"name": "ColorSpaceConverter",
 	"author": "Adriano de Regino",
 	"version": (0,1),
 	"blender": (3, 0, 0),
