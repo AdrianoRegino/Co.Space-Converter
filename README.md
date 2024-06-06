@@ -6,6 +6,9 @@ Useful when a game development or production project change color space amidst d
 
 Usage: Select a single object and click on the desired conversion button.
 
+
+This blender extension is under development, sorry for any inconvenience.
+
 Instalation:
 
 1 Blender Addon:
